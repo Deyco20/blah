@@ -17,3 +17,9 @@ h1 {
 p {
     font-size: 1.2em;
 }
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #666;
+}
